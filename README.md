@@ -26,7 +26,7 @@
 
 Desenvolvedor back-end em formação com experiência prática na construção de APIs REST e sistemas de software utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo, com foco em princípios de engenharia de software, design orientado a objetos e modelagem de banco de dados relacional.
 
-Comprometido em escrever código limpo e de fácil manutenção, com atenção à performance, escalabilidade e corretude das regras de negócio. Movido por uma mentalidade de engenharia de produto que conecta implementação técnica ao impacto real.
+Comprometido em escrever código limpo e de fácil manutenção, com atenção à performance, escalabilidade e corretude das regras de negócio.
 
 **Aberto a:** Estágios em Engenharia de Software · Desenvolvimento Back-End · Engenharia de APIs · Colaboração Open Source
 
@@ -74,7 +74,7 @@ Comprometido em escrever código limpo e de fácil manutenção, com atenção �
 
 <br>
 
-API RESTful completa para gerenciamento de barbearia, implementando operações CRUD para serviços e agendamentos com integridade de dados e aplicação de regras de negócio.
+API RESTful completa desenvolvida para gerenciamento de uma barbearia, com foco em boas práticas de engenharia de software, separação de responsabilidades e integridade dos dados.
 
 | Atributo | Detalhes |
 |-----------|---------|
@@ -83,9 +83,15 @@ API RESTful completa para gerenciamento de barbearia, implementando operações 
 | Funcionalidades | CRUD completo · Relacionamento entre entidades · Migrations · Validações de negócio |
 | Repositório | [Barbearia_CSharp](https://github.com/gustavopurkoot/Barbearia_CSharp) |
 
-- Projetou e implementou um esquema relacional normalizado com relacionamentos entre serviços e agendamentos
-- Aplicou migrations do EF Core para gerenciamento versionado do schema do banco de dados
-- Aplicou validações de negócio em nível de domínio para garantir consistência dos dados nos endpoints
+**O que foi desenvolvido:**
+- Endpoints REST para cadastro, listagem, atualização e remoção de serviços e agendamentos
+- Relacionamento entre entidades (serviços ↔ agendamentos) com integridade referencial
+- Migrations com Entity Framework Core para versionamento do schema do banco de dados
+- Validações de regras de negócio diretamente na camada de serviço, garantindo consistência dos dados
+- Configuração de rotas e controllers seguindo padrões RESTful com ASP.NET Core
+
+**Aprendizados:**
+> Aprofundamento em modelagem de banco de dados relacional, controle de migrations, validações em nível de domínio e estruturação de projetos back-end com ASP.NET Core.
 
 </details>
 
@@ -94,7 +100,7 @@ API RESTful completa para gerenciamento de barbearia, implementando operações 
 
 <br>
 
-Sistema orientado a objetos para gerenciamento de veículos, demonstrando conceitos avançados de Java como hierarquia de herança, classes abstratas e persistência de dados em arquivo.
+Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota de veículos, aplicando conceitos fundamentais de POO e persistência de dados sem dependências externas.
 
 | Atributo | Detalhes |
 |-----------|---------|
@@ -103,27 +109,17 @@ Sistema orientado a objetos para gerenciamento de veículos, demonstrando concei
 | Funcionalidades | CRUD · Polimorfismo · Persistência em arquivo · Ordenação com lambda |
 | Repositório | [Sistema-Gerenciamento-Veiculos-Java](https://github.com/gustavopurkoot/Sistema-Gerenciamento-Veiculos-Java) |
 
-- Arquitetou hierarquia de classes para carros e caminhões utilizando classes abstratas e comportamento polimórfico
-- Implementou camada de persistência em arquivo para gerenciamento de estado sem dependências externas
-- Utilizou expressões lambda do Java para ordenação dinâmica de objetos por múltiplos critérios
+**O que foi desenvolvido:**
+- Hierarquia de classes com classe abstrata `Veiculo` e subclasses `Carro` e `Caminhao`
+- Operações de CRUD completo para os diferentes tipos de veículos
+- Persistência de dados em arquivo, permitindo salvar e recuperar informações entre execuções
+- Ordenação dinâmica da frota utilizando expressões lambda do Java
+- Aplicação de polimorfismo para tratamento genérico de diferentes tipos de veículos
+
+**Aprendizados:**
+> Consolidação dos pilares da Programação Orientada a Objetos, uso prático de expressões lambda, e implementação de persistência de dados sem banco de dados externo.
 
 </details>
-
----
-
-## Experiência
-
-**Desenvolvedor Estudante** · Universidade Positivo  
-*Fevereiro de 2025 — Presente · Curitiba, PR*
-
-Desenvolvimento de projetos acadêmicos e pessoais de engenharia de software com complexidade crescente, aplicando padrões e disciplinas da indústria.
-
-- Construiu APIs REST com ASP.NET Core com CRUD completo, modelagem relacional e pipelines de migration
-- Desenvolveu sistemas POO em Java com herança, abstração e padrões funcionais com lambda
-- Aplicou SQL e modelagem relacional em múltiplos projetos usando SQLite e MySQL
-- Praticou fluxos profissionais de controle de versão com Git e GitHub em todo o desenvolvimento
-
-`C#` `ASP.NET Core` `Java` `Python` `SQL` `Git` `POO` `API REST`
 
 ---
 
@@ -154,16 +150,6 @@ Desenvolvimento de projetos acadêmicos e pessoais de engenharia de software com
 ![Sequência de Contribuições](https://streak-stats.demolab.com?user=gustavopurkoot&theme=tokyonight&hide_border=true&ring=9B59B6&fire=8E44AD&currStreakLabel=9B59B6&locale=pt_BR)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopurkoot&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&text_color=ffffff&bg_color=0d1117&locale=pt-br)
-
-</div>
-
----
-
-## Troféus do GitHub
-
-<div align="center">
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=gustavopurkoot&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
