@@ -1,8 +1,15 @@
 <div align="center">
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-# Gustavo Purkoot Ferreira
+█ PLAYER ONE HAS ENTERED THE GAME      █
 
-### Desenvolvedor Back-end | ADS — Universidade Positivo
+█ NAME: GUSTAVO PURKOOT FERREIRA       █
+
+█ CLASS: BACK-END DEVELOPER            █
+
+█ LEVEL: 3° PERÍODO — ADS             █
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-purkoot-ferreira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavopurkoot)
@@ -12,17 +19,22 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 📜 SIDE QUEST — Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo (3° período), com foco em **desenvolvimento back-end**. Tenho experiência prática com C#, ASP.NET Core, Java e Python, além de interesse em APIs REST e banco de dados.
+Estudante de ADS na Universidade Positivo (3° período)
 
-- 🎯 Buscando **estágio em TI** com foco em desenvolvimento de software
-- 📍 Araucária, PR
-- 📚 Sempre aprendendo algo novo
+Foco em desenvolvimento back-end e APIs REST
+
+Buscando estágio em TI para subir de nível
+
+Localização: Araucária, PR
+
+Status: Always grinding 🎮
+
 
 ---
 
-### 🛠️ Tecnologias
+### ⚔️ SKILLS DESBLOQUEADAS
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,33 +49,51 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo
 
 ---
 
-### 🚀 Projetos em destaque
+### 🏆 MISSÕES CONCLUÍDAS — Projetos
+┌─────────────────────────────────────────────┐
 
-**🔧 API REST — Sistema de Barbearia**
-> API com CRUD completo de serviços e agendamentos, relacionamento entre entidades, migrations e validações de negócio.
-> `C#` `ASP.NET Core` `Entity Framework Core` `SQLite`
+│  ★ API REST — Sistema de Barbearia          │
 
-**🚗 Sistema de Gerenciamento de Veículos**
-> Sistema com CRUD de carros e caminhões, herança, classes abstratas, persistência em arquivo e ordenação com lambda.
-> `Java`
+│  DIFICULDADE: ██████░░░░ INTERMEDIÁRIO      │
+
+│  STACK: C# · ASP.NET Core · EF Core · SQLite│
+
+│  → CRUD completo, migrations e validações   │
+
+├─────────────────────────────────────────────┤
+
+│  ★ Sistema de Gerenciamento de Veículos     │
+
+│  DIFICULDADE: ████░░░░░░ MÉDIO             │
+
+│  STACK: Java                                │
+
+│  → Herança, OOP, persistência em arquivo    │
+
+└─────────────────────────────────────────────┘
 
 ---
 
-### 📊 GitHub Stats
+### 📊 STATS DO JOGADOR
 
 <div align="center">
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavopurkoot&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopurkoot&layout=compact&theme=tokyonight&hide_border=true)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavopurkoot&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&icon_color=00ff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopurkoot&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00)
 
 </div>
 
 ---
 
-### 🐍 Contribuições
+### 🐍 MAPA DE CONTRIBUIÇÕES
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopurkoot/gustavopurkoot/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopurkoot/gustavopurkoot/output/github-contribution-grid-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/gustavopurkoot/gustavopurkoot/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+OBRIGADO POR VISITAR MEU PERFIL! INSERT COIN TO CONTINUE...
+
+</div>
