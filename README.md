@@ -210,7 +210,7 @@ aberto_a:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/gustavopurkoot04053357@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopurkoot04053357@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-purkoot-ferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-purkoot-ferreira)
 [![GitHub](https://img.shields.io/badge/gustavopurkoot-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavopurkoot)
 
 </div>
