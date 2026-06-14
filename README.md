@@ -24,11 +24,11 @@
 
 ## Sobre Mim
 
-Desenvolvedor back-end em formação com experiência prática na construção de APIs REST e sistemas de software utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Cursando Análise e Desenvolvimento de Sistemas na Universidade Positivo, com foco em princípios de engenharia de software, design orientado a objetos e modelagem de banco de dados relacional.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (3° período), com experiência prática em desenvolvimento de software utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Possuo conhecimentos em **Python**, **JavaScript**, **HTML**, **CSS**, **SQL** e **PHP**, além de versionamento com Git e GitHub.
 
-Comprometido em escrever código limpo e de fácil manutenção, com atenção à performance, escalabilidade e corretude das regras de negócio.
+Perfil proativo com interesse em desenvolvimento web, automação e análise de dados, sempre em busca de aprendizado e crescimento profissional.
 
-**Aberto a:** Estágios em Engenharia de Software · Desenvolvimento Back-End · Engenharia de APIs · Colaboração Open Source
+**Aberto a:** Estágios em TI · Desenvolvimento de Software · Desenvolvimento Web · Automação · Análise de Dados
 
 ---
 
@@ -61,7 +61,7 @@ Comprometido em escrever código limpo e de fácil manutenção, com atenção �
 | ASP.NET Core | ███████░░░ Intermediário | Controllers, rotas, middleware, EF Core |
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, migrations |
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
-| Python | █████░░░░░ Intermediário | Scripts, manipulação de dados |
+| Python | █████░░░░░ Básico | Scripts, manipulação de dados |
 | Controle de Versão | ████████░░ Proficiente | Git, GitHub, fluxos de branching |
 | Linux | ███░░░░░░░ Básico | Linha de comando, navegação no sistema de arquivos |
 
@@ -129,13 +129,13 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 
 **Udemy**
 
-![Java](https://img.shields.io/badge/Java%20COMPLETO%20—%20POO%20%2B%20Projetos-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
-![HTML CSS](https://img.shields.io/badge/HTML%20%26%20CSS%20—%20Primeiros%20Passos%20%2B%20Projetos-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
-![C](https://img.shields.io/badge/Lógica%20de%20Programação%20%26%20Algoritmos%20com%20C-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+[![Java](https://img.shields.io/badge/Java%20COMPLETO%20—%20POO%20%2B%20Projetos-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://github.com/gustavopurkoot/gustavopurkoot/blob/main/certificates/java-completo-udemy.pdf)
+[![HTML CSS](https://img.shields.io/badge/HTML%20%26%20CSS%20—%20Primeiros%20Passos%20%2B%20Projetos-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://github.com/gustavopurkoot/gustavopurkoot/blob/main/certificates/html-css-udemy.pdf)
+[![C](https://img.shields.io/badge/Lógica%20de%20Programação%20%26%20Algoritmos%20com%20C-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://github.com/gustavopurkoot/gustavopurkoot/blob/main/certificates/logica-algoritmos-c-udemy.pdf)
 
 **Fundação Bradesco**
 
-![Python](https://img.shields.io/badge/Linguagem%20de%20Programação%20Python%20—%20Básico-Fundação%20Bradesco-0057A8?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Linguagem%20de%20Programação%20Python%20—%20Básico-Fundação%20Bradesco-0057A8?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gustavopurkoot/gustavopurkoot/blob/main/certificates/python-basico-bradesco.pdf)
 
 </div>
 
@@ -183,23 +183,24 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 
 ```yaml
 aprendendo:
-  - Padrões avançados de ASP.NET Core
-  - Otimização do Entity Framework Core
-  - Boas práticas de design de APIs RESTful
+  - PHP e desenvolvimento web
+  - Java com Spring Boot
+  - C# e ASP.NET Core
 
 construindo:
-  - Sistemas back-end com C# e Java
-  - Aplicações orientadas a banco de dados
+  - APIs REST com C# e Java
+  - Aplicações web com PHP
+  - Projetos orientados a banco de dados
 
 explorando:
   - Padrões de arquitetura de software
-  - Princípios de Clean Code
-  - Fundamentos de DevOps
+  - Automação e análise de dados com Python
+  - Princípios de Clean Code e DevOps
 
 aberto_a:
-  - Estágios em engenharia de software
-  - Funções de desenvolvimento back-end
-  - Contribuições open source
+  - Estágios em TI e Engenharia de Software
+  - Desenvolvimento back-end e web
+  - Automação e análise de dados
 ```
 
 ---
