@@ -56,14 +56,14 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 | Domínio | Nível | Detalhes |
 |--------|-------------|---------|
-| Desenvolvimento Back-End | ██████████ Avançado | APIs REST, CRUD, regras de negócio, validações |
+| Desenvolvimento Back-End | ████████░░ Intermediário | APIs REST, CRUD, regras de negócio, validações |
 | Programação Orientada a Objetos | █████████░ Avançado | Herança, abstração, encapsulamento, polimorfismo |
-| ASP.NET Core | ███████░░░ Intermediário | Controllers, rotas, middleware, EF Core |
+| ASP.NET Core | ███████░░░ Intermediário | APIs REST, Controllers, Entity Framework Core, Migrations, Injeção de Dependência |
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, migrations |
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
-| Controle de Versão | ██████░░░░ Intermediário | Git, GitHub, fluxos de branching |
-| Python | ████░░░░░░ Básico | Scripts, manipulação de dados |
-| Linux | ███░░░░░░░ Básico | Linha de comando, navegação no sistema de arquivos |
+| Controle de Versão | ██████░░░░ Intermediário | Git, GitHub, branches, pull requests |
+| Python | ████░░░░░░ Básico | Scripts, automação e manipulação de dados |
+| Linux | ███░░░░░░░ Básico | Linha de comando, navegação e gerenciamento de arquivos |
 
 ---
 
