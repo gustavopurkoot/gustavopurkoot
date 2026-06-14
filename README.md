@@ -61,8 +61,8 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 | ASP.NET Core | ███████░░░ Intermediário | Controllers, rotas, middleware, EF Core |
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, migrations |
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
-| Python | ████░░░░░░ Básico | Scripts, manipulação de dados |
 | Controle de Versão | ██████░░░░ Intermediário | Git, GitHub, fluxos de branching |
+| Python | ████░░░░░░ Básico | Scripts, manipulação de dados |
 | Linux | ███░░░░░░░ Básico | Linha de comando, navegação no sistema de arquivos |
 
 ---
