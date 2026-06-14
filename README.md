@@ -74,13 +74,13 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 <br>
 
-API RESTful completa desenvolvida para gerenciamento de uma barbearia, com foco em boas práticas de engenharia de software, separação de responsabilidades e integridade dos dados.
+API REST desenvolvida para gerenciamento de uma barbearia, com foco em boas práticas de engenharia de software, separação de responsabilidades e integridade dos dados.
 
 | Atributo | Detalhes |
 |-----------|---------|
 | Stack | C# · ASP.NET Core · Entity Framework Core · SQLite |
-| Arquitetura | API RESTful · Repository Pattern |
-| Funcionalidades | CRUD completo · Relacionamento entre entidades · Migrations · Validações de negócio |
+| Arquitetura | API REST · Entity Framework Core |
+| Funcionalidades | CRUD completo · Relacionamento entre entidades · Migrations · Regras de negócio e validações |
 | Repositório | [Barbearia_CSharp](https://github.com/gustavopurkoot/Barbearia_CSharp) |
 
 **O que foi desenvolvido:**
