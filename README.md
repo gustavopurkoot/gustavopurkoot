@@ -56,8 +56,8 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 | Domínio | Nível | Detalhes |
 |--------|-------------|---------|
-| Desenvolvimento Back-End | ████████░░ Intermediário | APIs REST, CRUD, regras de negócio, validações |
 | Programação Orientada a Objetos | █████████░ Avançado | Herança, abstração, encapsulamento, polimorfismo |
+| Desenvolvimento Back-End | ████████░░ Intermediário | APIs REST, CRUD, regras de negócio, validações |
 | ASP.NET Core | ███████░░░ Intermediário | APIs REST, Controllers, Entity Framework Core, Migrations, Injeção de Dependência |
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, migrations |
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
