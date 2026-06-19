@@ -24,7 +24,7 @@
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (3° período), com experiência prática em desenvolvimento de software utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Possuo conhecimentos em **Python**, **JavaScript**, **HTML**, **CSS**, **SQL** e **PHP**, além de versionamento com Git e GitHub.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (3° período), com experiência prática em projetos acadêmicos e pessoais utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Possuo conhecimentos em **Python**, **JavaScript**, **HTML**, **CSS**, **SQL** e **PHP**, além de versionamento com Git e GitHub.
 
 Perfil proativo com interesse em desenvolvimento web, automação e análise de dados, sempre em busca de aprendizado e crescimento profissional.
 
@@ -56,7 +56,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 | Domínio | Nível | Detalhes |
 |--------|-------------|---------|
-| Programação Orientada a Objetos | █████████░ Avançado | Herança, abstração, encapsulamento, polimorfismo |
+| Programação Orientada a Objetos | █████████░ Intermediário/Avançado | Herança, abstração, encapsulamento, polimorfismo |
 | Desenvolvimento Back-End | ████████░░ Intermediário | APIs REST, CRUD, regras de negócio, validações |
 | ASP.NET Core | ███████░░░ Intermediário | APIs REST, Controllers, Entity Framework Core, Migrations, Injeção de Dependência |
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, MySQL, migrations |
