@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopurkoot04053357@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavopurkoot)
 
-![Visualizações](https://visitor-badge.laobi.icu/badge?page_id=gustavopurkoot.gustavopurkoot&style=flat-square&color=6A0DAD)
+![Visualizações](https://hits.sh/github.com/gustavopurkoot.svg?style=flat-square&label=Visualiza%C3%A7%C3%B5es&color=6a0dad)
 ![Seguidores](https://img.shields.io/github/followers/gustavopurkoot?style=flat-square&color=8E44AD)
 ![Estrelas](https://img.shields.io/github/stars/gustavopurkoot?style=flat-square&color=9B59B6)
 
