@@ -47,7 +47,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 **Ferramentas & DevOps**
 
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,linux,windows)](https://skillicons.dev)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
 </div>
 
 ---
