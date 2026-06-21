@@ -220,7 +220,9 @@ aberto_a:
 
 <div align="center">
 
-*"Primeiro, resolva o problema. Depois, escreva o código."*
+*"Talk is cheap. Show me the code."*
+
+— Linus Torvalds
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer)
 
