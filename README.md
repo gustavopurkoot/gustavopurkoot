@@ -222,7 +222,7 @@ aberto_a:
 
 *"Talk is cheap. Show me the code."*
 
-— Linus Torvalds
+**Linus Torvalds**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer)
 
