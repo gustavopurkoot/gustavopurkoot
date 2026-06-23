@@ -101,24 +101,24 @@ API REST desenvolvida para gerenciamento de uma barbearia, com foco em boas prá
 
 <br>
 
-Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota de veículos, aplicando conceitos fundamentais de POO e persistência de dados sem dependências externas.
+Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota de veículos, aplicando conceitos fundamentais de POO, composição de objetos e validação de dados.
 
 | Atributo | Detalhes |
 |-----------|---------|
 | Stack | Java |
-| Arquitetura | POO · Classes Abstratas · Herança |
-| Funcionalidades | CRUD · Polimorfismo · Persistência em arquivo · Ordenação com lambda |
+| Arquitetura | POO · Classes Abstratas · Herança · Composição |
+| Funcionalidades | CRUD completo · Polimorfismo · Filtros e ordenação · Validação de dados |
 | Repositório | [Sistema-Gerenciamento-Veiculos-Java](https://github.com/gustavopurkoot/Sistema-Gerenciamento-Veiculos-Java) |
 
 **O que foi desenvolvido:**
 - Hierarquia de classes com classe abstrata `Veiculo` e subclasses `Carro` e `Caminhao`
-- Operações de CRUD completo para os diferentes tipos de veículos
-- Persistência de dados em arquivo, permitindo salvar e recuperar informações entre execuções
-- Ordenação dinâmica da frota utilizando expressões lambda do Java
-- Aplicação de polimorfismo para tratamento genérico de diferentes tipos de veículos
+- Composição de objetos entre `Veiculo` e `Dono`, associando cada veículo ao seu proprietário
+- CRUD completo, com filtros por marca e por CPF do dono, e ordenação por ano de fabricação usando expressões lambda
+- Validação de regras de negócio: CPF (11 dígitos), ano de fabricação (1886 até o ano atual), câmbio, número de portas, capacidade de carga e eixos
+- Uso de `instanceof` e cast para tratamento específico de cada tipo de veículo, com tratamento de exceções (`try/catch`, `IllegalArgumentException`)
 
 **Aprendizados:**
-> Consolidação dos pilares da Programação Orientada a Objetos, uso prático de expressões lambda, e implementação de persistência de dados sem banco de dados externo.
+> Consolidação dos pilares da Programação Orientada a Objetos, composição entre classes, validação de regras de negócio e uso prático de expressões lambda para ordenação de dados.
 
 </details>
 
