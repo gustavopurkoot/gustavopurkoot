@@ -63,7 +63,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 | Banco de Dados | ███████░░░ Intermediário | Modelagem relacional, SQL, SQLite, MySQL, migrations |
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
 | Controle de Versão | ██████░░░░ Intermediário | Git, GitHub, branches, pull requests |
-| Python | ████░░░░░░ Básico | Scripts, automação e manipulação de dados |
+| Python | ████░░░░░░ Básico | Sintaxe e lógica de programação |
 | Linux | ███░░░░░░░ Básico | Linha de comando, navegação e gerenciamento de arquivos |
 
 ---
