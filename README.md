@@ -186,7 +186,7 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 aprendendo:
   - PHP e desenvolvimento web
   - Java com Spring Boot
-  - C# e ASP.NET Core
+  - ASP.NET Core e C# 
 
 construindo:
   - APIs REST com C# e Java
