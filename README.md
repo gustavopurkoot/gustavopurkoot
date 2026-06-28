@@ -166,7 +166,7 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 
 ---
 
-## Cobrinha de Contribuições
+## Histórico Animado de Contribuições
 
 <div align="center">
 
