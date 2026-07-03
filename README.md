@@ -146,11 +146,11 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavopurkoot&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=8E44AD&text_color=ffffff&bg_color=0d1117&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats-three-eta-39.vercel.app/api?username=gustavopurkoot&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=8E44AD&text_color=ffffff&bg_color=0d1117&locale=pt-br)
 
 ![Sequência de Contribuições](https://streak-stats.demolab.com?user=gustavopurkoot&theme=tokyonight&hide_border=true&ring=9B59B6&fire=8E44AD&currStreakLabel=9B59B6&locale=pt_BR)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopurkoot&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&text_color=ffffff&bg_color=0d1117&locale=pt-br)
+![Linguagens Mais Usadas](https://github-readme-stats-three-eta-39.vercel.app/api/top-langs/?username=gustavopurkoot&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&text_color=ffffff&bg_color=0d1117&locale=pt-br)
 
 </div>
 
