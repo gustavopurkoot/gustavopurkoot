@@ -7,7 +7,7 @@
 ---
 
 ![ADS](https://img.shields.io/badge/Análise%20e%20Desenvolvimento%20de%20Sistemas-Universidade%20Positivo-6A0DAD?style=flat-square&logo=graduation-cap&logoColor=white)
-![Period](https://img.shields.io/badge/3°%20Período-2025–2026-8E44AD?style=flat-square)
+![Period](https://img.shields.io/badge/4°%20Período-2025–2026-8E44AD?style=flat-square)
 ![Location](https://img.shields.io/badge/📍%20Araucária-Paraná%2C%20Brasil-5B2C6F?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAxLjc3MSAweiIvPjwvc3ZnPg==&logoColor=white)](https://linkedin.com/in/gustavo-purkoot-ferreira)
@@ -24,7 +24,7 @@
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (3° período), com experiência prática em projetos acadêmicos e pessoais utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Possuo conhecimentos em **Python**, **JavaScript**, **HTML**, **CSS**, **SQL** e **PHP**, além de versionamento com Git e GitHub.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (4° período), com experiência prática em projetos acadêmicos e pessoais utilizando **C#**, **ASP.NET Core**, **Entity Framework Core** e **Java**. Possuo conhecimentos em **Python**, **JavaScript**, **HTML**, **CSS**, **SQL** e **PHP**, além de versionamento com Git e GitHub.
 
 Perfil proativo com interesse em desenvolvimento web, automação e análise de dados, sempre em busca de aprendizado e crescimento profissional.
 
