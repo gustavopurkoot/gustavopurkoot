@@ -160,7 +160,7 @@ Sistema orientado a objetos desenvolvido em Java para gerenciamento de uma frota
 
 <div align="center">
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=gustavopurkoot&theme=tokyo-night&hide_border=true&color=9B59B6&line=8E44AD&point=ffffff)
+![Gráfico de Atividade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavopurkoot&theme=tokyonight)
 
 </div>
 
