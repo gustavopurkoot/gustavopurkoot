@@ -38,7 +38,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 **Linguagens**
 
-[![Linguagens](https://skillicons.dev/icons?i=cs,java,python,js,php,c,html,css)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=cs,java,kotlin,python,js,php,c,html,css)](https://skillicons.dev)
 
 **Back-End & Bancos de Dados**
 
