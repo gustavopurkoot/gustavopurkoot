@@ -46,7 +46,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 
 **Ferramentas & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,windows,postman" />
 <img src="https://cdn.simpleicons.org/trello/0052CC" width="48" height="48" />
 
 </div>
