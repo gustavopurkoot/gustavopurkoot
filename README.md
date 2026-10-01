@@ -64,7 +64,7 @@ Perfil proativo com interesse em desenvolvimento web, automação e análise de 
 | Java | ███████░░░ Intermediário | POO, expressões lambda, persistência em arquivo |
 | Controle de Versão | ██████░░░░ Intermediário | Git, GitHub, branches, pull requests |
 | Python | ████░░░░░░ Básico | Sintaxe e lógica de programação |
-| Kotlin | ████░░░░░░ Básico | Android com Jetpack Compose: layouts, estado, navegação (NavHost e barra inferior) e telas a partir de design do Figma |
+| Kotlin | ████░░░░░░ Básico | Android com Jetpack Compose: layouts, estado, navegação (NavHost e barra inferior) |
 | Linux | ███░░░░░░░ Básico | Linha de comando, navegação e gerenciamento de arquivos |
 
 ---
